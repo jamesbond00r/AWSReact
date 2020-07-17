@@ -7,7 +7,7 @@ export default function Bar () {
 
 	return(
 
-
+<div className='navText'>
 <Nav className="justify-content-end" variant="tabs" defaultActiveKey="/home">
   <Nav.Item>
     <Nav.Link href="/home">Home</Nav.Link>
@@ -19,6 +19,6 @@ export default function Bar () {
     <Nav.Link eventKey="link-2">Tips</Nav.Link>
   </Nav.Item>
 </Nav>
-        
+        </div>
 )
         }

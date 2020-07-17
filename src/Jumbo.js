@@ -1,13 +1,13 @@
 import React from 'react';
 import Jumbotron from 'react-bootstrap/Jumbotron';
 import Button from 'react-bootstrap/Button';
-
+import './App.css';
 
 export default function Jumbo () {
 
 	return(
 
-<Jumbotron>
+<Jumbotron id="background">
   
   <h1>LUCKY YOU!</h1>
   <h3>We find contest and sweepstakes for you to enter!</h3>
@@ -15,9 +15,9 @@ export default function Jumbo () {
    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   </p>
   <p>
-    <Button size="lg" variant="success">A Button</Button>
+    <Button size="lg" variant="outline-success">A Button</Button>
 
-    <Button size="lg" variant="info">A Button</Button>
+    <Button id='button2' size="lg" variant="outline-info">A Button</Button>
   </p>
   
 </Jumbotron>

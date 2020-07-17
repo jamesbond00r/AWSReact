@@ -7,6 +7,7 @@ import Bar from './nav.js';
 import Jumbo from './Jumbo';
 import CardBody from './Card';
 import NavBarLower from './NavBarLower';
+import  Body from './body';
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
    <Bar></Bar>
    <Jumbo> </Jumbo>
    <CardBody></CardBody>
+   <Body></Body>
   <NavBarLower></NavBarLower>
        
     </div>
