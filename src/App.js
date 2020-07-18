@@ -13,7 +13,7 @@ import  Body from './body';
 function App() {
   return (
     <div className="App">
-   <Bar></Bar>
+  
    <Jumbo> </Jumbo>
    <CardBody></CardBody>
    <Body></Body>

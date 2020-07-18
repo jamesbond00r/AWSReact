@@ -8,10 +8,12 @@ import NotFound from './notFound.js'
 import * as serviceWorker from './serviceWorker';
 
 
+
 const routing = (
 
 	<Router>
-	<div>
+ 
+	<div className="NavRouting">
 		<ul>
 			<li>
 				<Link to="/">Home</Link>
@@ -31,7 +33,11 @@ const routing = (
 	</Router>
 
 
+
+
 	)
+
+	
 
 ReactDOM.render(routing, document.getElementById('root'));
 
