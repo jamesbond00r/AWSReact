@@ -13,7 +13,7 @@ export default function Bar () {
     <Nav.Link href="/home">Home</Nav.Link>
   </Nav.Item>
   <Nav.Item>
-    <Nav.Link eventKey="link-1">Lucky</Nav.Link>
+    <Nav.Link eventKey="/lucky.js">Lucky</Nav.Link>
   </Nav.Item>
   <Nav.Item>
     <Nav.Link eventKey="link-2">Tips</Nav.Link>

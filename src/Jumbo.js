@@ -15,9 +15,9 @@ export default function Jumbo () {
    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   </p>
   <p>
-    <Button size="lg" variant="outline-success">A Button</Button>
+    <Button size="lg" variant="primary">A Button</Button>
 
-    <Button id='button2' size="lg" variant="outline-info">A Button</Button>
+    <Button id='button2' size="lg" variant="success">A Button</Button>
   </p>
   
 </Jumbotron>
