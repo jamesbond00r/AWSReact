@@ -20,7 +20,7 @@ const routing = (
 				<Link to="/">Home</Link>
 			</li>
 			<li>
-				<Link to="/lucky">Lucky</Link>
+				<Link to="/lucky">Lucky Emails</Link>
 			</li>
 			<li>
 			<Link to='/Contest'>Contest</Link>

@@ -12,12 +12,12 @@ export default function Jumbo () {
   <h1>LUCKY YOU!</h1>
   <h3>We find contest and sweepstakes for you to enter!</h3>
   <p >
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+   Find online contest, sweepstakes, tips and tricks all in one place and dont forget to sign up for our lucky emails and get contest and sweepstakes we find right to your email!
   </p>
   <p>
-    <Button size="lg" variant="primary">A Button</Button>
+    <a href="./contest"> <Button size="lg" variant="primary">Enter Contest and sweepstakes</Button></a>
 
-    <Button id='button2' size="lg" variant="success">A Button</Button>
+     <a href="./lucky"> <Button id='button2' size="lg" variant="success">Sign up for lucky emails</Button></a>
   </p>
   
 </Jumbotron>
