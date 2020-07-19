@@ -10,6 +10,7 @@ import Mailchimp from 'react-mailchimp-form';
 class Lucky extends React.Component {
 	render() {
 		return (
+      <div>
  <Mailchimp
         action="https://protonmail.us10.list-manage.com/subscribe/post?u=901a183ea4387919f46d5e0b4&amp;id=46fa43a086"
         fields={[
@@ -33,8 +34,13 @@ class Lucky extends React.Component {
     }
   }
         />
+        <NavBarLower></NavBarLower>
+        </div>
+
     );
+
   }
+
 }
 
 
