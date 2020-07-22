@@ -10,14 +10,15 @@ export default function Jumbo () {
 <Jumbotron id="background">
   
   <h1>LUCKY YOU!</h1>
-  <h3>We find contest and sweepstakes for you to enter!</h3>
+  <h3>We hunt down contest and sweepstakes from around the interent for you to enter!</h3>
   <p >
-   Find online contest, sweepstakes, tips and tricks all in one place and dont forget to sign up for our lucky emails and get contest and sweepstakes we find right to your email!
+   Find online contest, sweepstakes, tips and tricks all in one place and easy to use. Dont forget to sign up for our lucky emails and get short simple emails containing contest and sweepstakes we find to you to play and enter!
+
   </p>
   <p>
-    <a href="./contest"> <Button size="lg" variant="primary">Enter Contest and sweepstakes</Button></a>
+    <a href="./contest"> <Button id='button2' size="lg" variant="primary">Enter Contest and sweepstakes</Button></a>
 
-     <a href="./lucky"> <Button id='button2' size="lg" variant="success">Sign up for lucky emails</Button></a>
+     <a href="./lucky"> <Button id='button2' size="lg" variant="warning">Sign up for lucky emails</Button></a>
   </p>
   
 </Jumbotron>

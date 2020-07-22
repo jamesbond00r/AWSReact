@@ -15,6 +15,7 @@ function App() {
     <div className="App">
   
    <Jumbo> </Jumbo>
+   
    <CardBody></CardBody>
    <Body></Body>
   <NavBarLower></NavBarLower>

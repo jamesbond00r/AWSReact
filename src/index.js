@@ -20,11 +20,12 @@ const routing = (
 				<Link to="/">Home</Link>
 			</li>
 			<li>
-				<Link to="/lucky">Lucky Emails</Link>
-			</li>
-			<li>
 			<Link to='/Contest'>Contest</Link>
 			</li>
+			<li>
+				<Link to="/lucky">Sign Up</Link>
+			</li>
+			
 				</ul>
 			<Switch>
 		<Route exact path="/" component={App} />

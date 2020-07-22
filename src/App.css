@@ -27,8 +27,14 @@ text{
 .space{
 
 	padding: 50px;
-}
 
+}
+.bg {
+
+   max-width: 100%;
+  height: auto;
+
+}
 
 #backgound {
   
@@ -45,6 +51,7 @@ text{
 
 #button2{
 margin-left: 12px;
+margin-top: 12px;
 
 }
 
