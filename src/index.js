@@ -7,6 +7,8 @@ import Lucky from './lucky.js';
 import Contest from './Contest';
 import NotFound from './notFound.js'
 import * as serviceWorker from './serviceWorker';
+import { faEnvelope} from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 
 
@@ -22,8 +24,8 @@ const routing = (
 			<li>
 			<Link to='/Contest'>Contest</Link>
 			</li>
-			<li>
-				<Link to="/lucky">Sign Up</Link>
+			<li id="email">
+				<Link  to="/lucky">Sign Up  <FontAwesomeIcon icon={faEnvelope}/>  </Link>
 			</li>
 			
 				</ul>

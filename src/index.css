@@ -38,3 +38,8 @@ code {
 .NavRouting li a:hover {
 	 background-color: #111;
 }
+
+
+.NavRouting #email{
+  color: red;
+}
