@@ -11,6 +11,7 @@ class Contest extends React.Component {
       <div>
  <h1 className="CoSw">Contest and Sweepstakes</h1>
 
+
  <Table striped bordered hover >
   <thead>
     <tr>
@@ -22,6 +23,80 @@ class Contest extends React.Component {
     </tr>
   </thead>
   <tbody>
+
+
+
+{/*<tr><td>Sweepstakes</td><td><a href=""> Copy and paste me </a></td><td> Blank for Now </td><td><a href=""> <Button variant="info">Sweepstakes Rules</Button></a></td><td>Yeah also blank fo now</td></tr> */}
+
+
+    <tr>
+<td>Sweepstakes</td>
+      <td><a href="https://news.iheart.com/contests/enter-to-win-841430/"> Enter To Win A Delicious Duet Sweepstakes! </a></td>
+      <td> Winners will win a Spring Grilling Gear Kit that will ensure they'll be all set for the BBQ season. Note - Sweepstakes Rules Located on same page as promotion. </td>
+      <td><a href="https://news.iheart.com/contests/enter-to-win-841430/"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td>Yeah also blank fo now</td>
+    </tr>
+
+
+    <tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.cat.com/en_US/campaigns/awareness/get-geared-up-giveaway.html"> Cat Geared Up Giveaway </a></td>
+      <td>Win the Get Geared Up Giveaway and you could take home one of practically everything. Enter now for your chance at one of 20 $500 shopcaterpillar.com gift cards, courtesy of The Cat Rental Store.</td>
+      <td><a href="https://www.cat.com/en_US/campaigns/awareness/get-geared-up-giveaway/get-geared-up-terms-and-conditions.html"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td>9/30/2020</td>
+    </tr>
+
+<tr>
+    <td>Sweepstakes</td>
+      <td><a href="https://www.loweboats.com/50th-anniversary-giveaway/"> Loweboats 50th anniversary giveaway </a></td>
+      <td> Enter For Your Chance To Win Over $20,000 in Prizes Including a 50th Anniversary Special Edition Lowe Legacy!</td>
+      <td><a href="https://www.loweboats.com/50th-anniversary-giveaway/"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td>8/31/2020</td>
+    </tr>
+
+
+    <tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.gabesstores.com/win"> Gabestores </a></td>
+      <td> We’re ready to help you rock your new routine by giving away $20,000 in instant gift cards and $300,000 in coupons!  </td>
+      <td><a href="https://www.gabesstores.com/win"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td>Y8/30/2020</td>
+    </tr>
+
+
+    <tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.motosport.com/win"> Motorsport </a></td>
+      <td> Enter Every Week to Win One of 13 Weekly Giveaways and Boost your Chances of Scoring the 2021 Yamaha YZ250F Grand Prize. </td>
+      <td><a href="https://www.motosport.com/win"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td>13 week Giveaway. Promotion Period Ends Oct/12/2020 - see rules for more information  </td>
+    </tr>
+
+<tr>
+    <td>Sweepstakes</td>
+    <td><a href="https://www.starbuckssummergame.com/#/landing"> Starbucks Summer Game </a></td>
+      <td>Play for a chance to win free drinks, summer merchandise, instant prizes and thousands of Stars.</td>
+      <td><a href="https://starbucks.promo.eprize.com/summer2020/public/fulfillment/rules.pdf"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td>There are 5 phases Promotion Period ends 8/23/2020 - see rules for more information</td>
+    </tr>
+
+
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.garnierusa.com/offers/its-our-treat-sweepstakes"> Garnier Usa its our treat sweepstakes </a></td>
+      <td> Enter for a chance to win NEW Fructis Treats Shampoo and Conditioner 11.8oz. When you enter, you’ll also have the chance to win thousands of other instant prizes! </td>
+      <td><a href="https://www.garnierusa.com/offers/its-our-treat-sweepstakes"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td>8/31/2020</td>
+    </tr>
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.crashfromhome.com/"> Crash From Home </a></td>
+      <td> Make a video with Doritos®. Any way you want. Dance. Craft. Crunch. Create. Then upload it here for a chance to get your video on TV and a $$$ pay check. </td>
+      <td><a href="https://www.crashfromhome.com/official-rules"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td>7/28/2020</td>
+    </tr>
+
+
     <tr>
       <td>Sweepstakes</td>
       <td><a href="https://www.hgtv.com/design/ultimate-house-hunt"> HGTV Ultimate House Hunt</a></td>
@@ -29,8 +104,9 @@ class Contest extends React.Component {
       <td><a href="https://www.hgtv.com/design/ultimate-house-hunt/sweepstakes"> <Button variant="info">Sweepstakes Rules</Button></a></td>
       <td>8/04/2020</td>
     </tr>
+
     <tr>
-      
+   
 <td>Sweepstakes</td>
       <td><a href="https://www.travelchannel.com/sweepstakes/dreaming-of-travel">Travel Channel Dreaming of Travel Sweepstakes </a></td>
       <td>You could win $10,000 CASH! Enter daily through July 31 at 8:59 am EDT for your chance to win
