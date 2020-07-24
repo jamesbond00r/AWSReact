@@ -17,7 +17,7 @@ export default function Jumbo () {
   <h1>LUCKY YOU! </h1>
   <h3>   We hunt down contest and sweepstakes from around the interent for you to enter!  </h3>
   <p >
-   Find online contest, sweepstakes, tips and tricks all in one place and easy to use. Dont forget to sign up for our lucky emails and get short simple emails containing contest and sweepstakes we find to you to play and enter!
+   Find online contest, sweepstakes, tips and tricks all in one place and easy to use. Dont forget to sign up for  lucky emails and get short simple emails containing contest and sweepstakes we find fo you!
 
   </p>
   <p>
