@@ -8,7 +8,7 @@ export default function Navbarlower () {
 	return(
  <Navbar expand="lg" variant="light" bg="light" fixed="bottom">
   <Container>
-    <Navbar.Brand href="#">Navbar</Navbar.Brand>
+    <Navbar.Brand href="https://www.luckystreak.io/">LuckyStreak.io</Navbar.Brand>
   </Container>
 </Navbar>
 
