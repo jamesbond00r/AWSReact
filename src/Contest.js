@@ -29,6 +29,38 @@ class Contest extends React.Component {
 {/*<tr><td>Sweepstakes</td><td><a href=""> Copy and paste me </a></td><td> Blank for Now </td><td><a href=""> <Button variant="info">Sweepstakes Rules</Button></a></td><td>Yeah also blank fo now</td></tr> */}
 
 
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://funlightenment.com/"> BlueBunny Your Summer of funlightenment</a></td>
+      <td> We're infusing a little fun into summer. Trade in your boring canceled tickets here for a chance to win cool prizes and experiences. Never before has a canceled ticket been this fun. </td>
+      <td><a href="https://funlightenment.com/rules"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td>9/2/2020</td>
+    </tr>
+
+
+
+
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://savorsummerwithmakers.com/en-US/AgeGate"> Savor your Summer</a></td>
+      <td> 
+Enter for a chance to win an outdoor entertainment kit.
+Savor summer wherever you are with Maker’s Mark®.
+ </td>
+      <td><a href="https://savorsummerwithmakers.com/en-US/Rules"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td>10/01/2020</td>
+    </tr>
+
+
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.bojangles.com/gowithbo/"> GO with Bojangles! </a></td>
+      <td> Are you ready to hit the road? The South has some of the very best drivable destinations with a little bit of something for everyone. This Summer, Bojangles is paying for one lucky fan’s summer road trip. </td>
+      <td><a href="https://www.bojangles.com/gowithbo/rules-regulations.php"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td>8/5/2020</td>
+    </tr>
+
+
     <tr>
 <td>Sweepstakes</td>
       <td><a href="https://news.iheart.com/contests/enter-to-win-841430/"> Enter To Win A Delicious Duet Sweepstakes! </a></td>
