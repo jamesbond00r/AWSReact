@@ -34,7 +34,7 @@ class Contest extends React.Component {
       <td><a href="https://news.iheart.com/contests/enter-to-win-841430/"> Enter To Win A Delicious Duet Sweepstakes! </a></td>
       <td> Winners will win a Spring Grilling Gear Kit that will ensure they'll be all set for the BBQ season. Note - Sweepstakes Rules Located on same page as promotion. </td>
       <td><a href="https://news.iheart.com/contests/enter-to-win-841430/"> <Button variant="info">Sweepstakes Rules</Button></a></td>
-      <td>Yeah also blank fo now</td>
+      <td>7/26/2020/td>
     </tr>
 
 
