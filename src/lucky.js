@@ -10,8 +10,9 @@ import Mailchimp from 'react-mailchimp-form';
 class Lucky extends React.Component {
 	render() {
 		return (
-      <div className="lucky">
-      <p>Sign up for lucky emails and get new contest and sweepstakes sent to your email!</p>
+      
+      <div className="lucky"><h1>Sign up for lucky emails</h1>
+      <p>Sign up for lucky emails and get new contest and sweepstakes sent to your email! Cancel emamil updates anytime</p>
  <Mailchimp
         action="https://protonmail.us10.list-manage.com/subscribe/post?u=901a183ea4387919f46d5e0b4&amp;id=46fa43a086"
         fields={[
