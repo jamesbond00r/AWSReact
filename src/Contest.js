@@ -24,9 +24,52 @@ class Contest extends React.Component {
   </thead>
   <tbody>
 
-
-
 {/*<tr><td>Sweepstakes</td><td><a href=""> Copy and paste me </a></td><td> Blank for Now </td><td><a href=""> <Button variant="info">Sweepstakes Rules</Button></a></td><td>Yeah also blank fo now</td></tr> */}
+
+
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://restomods.com/for-sale/sweepstakes/order"> RestoMods Win a 64 Corvette Sting Ray or $50,000 Cash </a></td>
+      <td>Win this '64 Corvette Sting Ray or $50,000 Cash Your Choice!</td>
+      <td><a href="https://restomods.com/for-sale/sweepstakes/order"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 9/25/2020</td>
+    </tr>
+
+
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.ashleyfurniture.com/c/tempurpedic-mattress-sweepstakes/"> Sleep Better Sweepstakes</a></td>
+      <td>Every week, 1 lucky winner gets a Tempur-Pedic mattress of their choice!</td>
+      <td><a href="https://www.ashleyfurniture.com/c/tempurpedic-mattress-sweepstakes/terms-and-conditions/"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td>Entry Period Ends 8/17/202 - 6 Entry Periods see official-rules for detail</td>
+    </tr>
+
+
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.fosterfarms.com/wwe/"> Fight The Hunger Monster With Foster Farms Corn Dogs</a></td>
+      <td>Enter For your chance to win tickets to WWE SummerSlam and other amazing prizes. </td>
+      <td><a href="https://wwe.fosterfarms.com/en-us/Rules"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td>3 phase Period ends 10/15/2020 - See official-rules for more detail</td>
+    </tr>
+
+
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.breckenridgediscountlodging.com/breckenridge-summer-activities-giveaway-2020/"> Breckenridge Summer Activities Giveaway! </a></td>
+      <td>Enter To Win A Rocky Mountain Summer Vacation  </td>
+      <td><a href="https://s32243.pcdn.co/wp-content/uploads/2020/03/Summer-Activities-2020-Offical-Rules.pdf"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td>8/31/2020</td>
+    </tr>
+
+
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://hotwheels.mattel.com/shop/en-us/hw/HondaKrogerSweepstakes2020"> Hot Wheels Hodna Sweepstakes</a></td>
+      <td> Enter for your chance to win a 2020 Honda Civic </td>
+      <td><a href="http://www.hotwheels.com/sweeps-rules"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td>10/10/2020</td>
+    </tr>
 
 
 <tr>
