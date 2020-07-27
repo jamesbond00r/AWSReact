@@ -29,6 +29,77 @@ class Contest extends React.Component {
 
 <tr>
 <td>Sweepstakes</td>
+      <td><a href="https://www.southernliving.com/sweepstakes/entry/backyard-paradise-10000-sweepstakes/7846200">Southern Living</a></td>
+      <td>Backyard Paradise $10,000 Sweepstakes. Enter for a chance to WIN $10,000 to create the backyard of your dreams.</td>
+      <td><a href="https://www.southernliving.com/sweepstakes/rules/backyard-paradise-10000-sweepstakes/7846200"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 12/31/2020</td>
+    </tr>
+
+
+
+
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.diamondnexus.com/giveaways">Diamondnexus</a></td>
+      <td>Enter to win a $2,500 shopping spree</td>
+      <td><a href="https://www.diamondnexus.com/contest-rules"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> ends at 11:59 P.M. CT on the last day of each month</td>
+    </tr>
+
+
+
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.tripadvisor.com/escape1">Tripadvisor</a></td>
+      <td>Ruffino is passionate about being as vibrant and lively as the Tuscan region itself. Where will you find your next adventure? We invite you to find out. Simply complete the entry form below for a chance to win a Grand Prize trip to the destination of your choice.  </td>
+      <td><a href="https://app.wyng.com/5e274902953699034e24f7e1?page=page_3929323446348"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 08/31/2020</td>
+    </tr>
+
+
+
+
+
+
+
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.grillmypapamurphys.com/home">Papa Murphy's</a></td>
+      <td> Want to win a $10,000 backyard grilling oasis? </td>
+      <td><a href="https://www.grillmypapamurphys.com/rules"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 07/29/2020</td>
+    </tr>
+
+
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="http://www.buckmasters.com/CONTESTS/fb/c/YAMG20/s/2">Buckmasters</a></td>
+      <td> Win a Yamaha Grizzly ATV! </td>
+      <td><a href="http://www.buckmasters.com/Contests/Rules/c/YAMG20"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 01/10/2021</td>
+    </tr>
+
+
+
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.monsterenergy.com/us/en/promotions/enter-to-win-a-training-experience-with-rob-gronkowski-in-tulum-mexico">Monsters Enter to win your chance to hang with Gronk in Tulum, Mexico</a></td>
+      <td> Enter to a Training experience with Rob Gronkowski in Tulum, Mexico </td>
+      <td><a href="https://www.monsterenergy.com/us/en/promotions/enter-to-win-a-training-experience-with-rob-gronkowski-in-tulum-mexico"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 8/31/2020</td>
+    </tr>
+
+
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.winwithfridays.com/"> Win With Fridays</a></td>
+      <td> Play for your chance to win $5,000! plus, there's over $20,000 in additional prizes to be won! </td>
+      <td><a href="https://www.winwithfridays.com/rules"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 8/17/2020</td>
+    </tr>
+
+<tr>
+<td>Sweepstakes</td>
       <td><a href="https://restomods.com/for-sale/sweepstakes/order"> RestoMods Win a 64 Corvette Sting Ray or $50,000 Cash </a></td>
       <td>Win this '64 Corvette Sting Ray or $50,000 Cash Your Choice!</td>
       <td><a href="https://restomods.com/for-sale/sweepstakes/order"> <Button variant="info">Sweepstakes Rules</Button></a></td>
