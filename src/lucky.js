@@ -26,7 +26,7 @@ class Lucky extends React.Component {
 
  <Mailchimp
 
-        ction="https://luckystreak.us17.list-manage.com/subscribe/post?u=05cdc8d7a7546cc448d4fc571&amp;id=712eeb4f81"
+        action="https://luckystreak.us17.list-manage.com/subscribe/post?u=05cdc8d7a7546cc448d4fc571&amp;id=712eeb4f81"
         fields={[
           {
             name: 'EMAIL',
