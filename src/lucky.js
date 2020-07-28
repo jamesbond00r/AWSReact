@@ -21,12 +21,12 @@ class Lucky extends React.Component {
       <p>Want to add more luck to you day?</p>
 
       <p>Sign up for lucky emails and get new contest and sweepstakes sent to your email! Unsubscribe anytime!</p>
-      
 
       </div>
 
  <Mailchimp
-        action="https://protonmail.us10.list-manage.com/subscribe/post?u=901a183ea4387919f46d5e0b4&amp;id=46fa43a086"
+
+        ction="https://luckystreak.us17.list-manage.com/subscribe/post?u=05cdc8d7a7546cc448d4fc571&amp;id=712eeb4f81"
         fields={[
           {
             name: 'EMAIL',
