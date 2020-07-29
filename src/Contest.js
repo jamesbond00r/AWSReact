@@ -26,6 +26,60 @@ class Contest extends React.Component {
 
 {/*<tr><td>Sweepstakes</td><td><a href=""> Copy and paste me </a></td><td> Blank for Now </td><td><a href=""> <Button variant="info">Sweepstakes Rules</Button></a></td><td>Yeah also blank fo now</td></tr> */}
 
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.bluebuffalosweeps.com/AmoeEntry.aspx">BlueBuffalo</a></td>
+      <td>You could Win $7,000 Enough For A Pet's Lifetime of food! </td>
+      <td><a href="http://terms.snipp.com/bluebuffalo/BlueBuffaloSummerSweeps1004695/BlueSummerSweeps-OfficialRules.pdf"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 8/16/2020</td>
+    </tr>
+
+
+
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://woobox.com/typ5a4">Woobox</a></td>
+      <td>$2,100 Channellock Tool Chest Giveaway! </td>
+      <td><a href="https://woobox.com/typ5a4/rules"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 8/1/2020</td>
+    </tr>
+
+
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.bluenile.com/jewelry-sweepstakes">Blue Nile</a></td>
+      <td>Win the Ultimate $20,000 Jewelry Giveaway</td>
+      <td><a href="https://www.bluenile.com/jewelry-sweepstakes-rules"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 9/30/2020</td>
+    </tr>
+
+
+
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://app.viralsweep.com/sweeps/full/fe9b2f-68779?framed=1">Xpress Boats</a></td>
+      <td> Win a 2021 Xpress XP160 Bass Boat - Sweepstakes Rules Located on same page as promotion. </td>
+      <td><a href="https://app.viralsweep.com/sweeps/full/fe9b2f-68779?framed=1"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 11/26/20200</td>
+    </tr>
+
+
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.acanela.com/spain-sweepstakes">Acanela Expeditions</a></td>
+      <td> Win A Trip To Ibiza, Spain!</td>
+      <td><a href="https://propaintersweeps.3m.com/Public/pdf/OfficialRules2020SweepsFINAL.pdf"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 10/31/2020/2020</td>
+    </tr>
+
+
+<tr>
+<td>Sweepstakes</td>
+      <td><a href="https://propaintersweeps.3m.com/?utm_medium=redirect&utm_source=vanity-url&utm_campaign=www.3m.com/ProPainterSweeps">The ScotchBlue painter's Tape</a></td>
+      <td>Chose Blue. Win Big. PRO PAINTERS: Enter for a chance to win a 2020 RAM Rebel Truck!</td>
+      <td><a href="https://propaintersweeps.3m.com/Public/pdf/OfficialRules2020SweepsFINAL.pdf"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 10/31/2020/2020</td>
+    </tr>
 
 <tr>
 <td>Sweepstakes</td>
@@ -62,13 +116,6 @@ class Contest extends React.Component {
 
 
 
-<tr>
-<td>Sweepstakes</td>
-      <td><a href="https://www.grillmypapamurphys.com/home">Papa Murphy's</a></td>
-      <td> Want to win a $10,000 backyard grilling oasis? </td>
-      <td><a href="https://www.grillmypapamurphys.com/rules"> <Button variant="info">Sweepstakes Rules</Button></a></td>
-      <td> 07/29/2020</td>
-    </tr>
 
 
 <tr>
@@ -175,13 +222,7 @@ Savor summer wherever you are with Maker’s Mark®.
     </tr>
 
 
-    <tr>
-<td>Sweepstakes</td>
-      <td><a href="https://news.iheart.com/contests/enter-to-win-841430/"> Enter To Win A Delicious Duet Sweepstakes! </a></td>
-      <td> Winners will win a Spring Grilling Gear Kit that will ensure they'll be all set for the BBQ season. Note - Sweepstakes Rules Located on same page as promotion. </td>
-      <td><a href="https://news.iheart.com/contests/enter-to-win-841430/"> <Button variant="info">Sweepstakes Rules</Button></a></td>
-      <td>7/26/2020</td>
-    </tr>
+   
 
 
     <tr>
@@ -206,7 +247,7 @@ Savor summer wherever you are with Maker’s Mark®.
       <td><a href="https://www.gabesstores.com/win"> Gabestores </a></td>
       <td> We’re ready to help you rock your new routine by giving away $20,000 in instant gift cards and $300,000 in coupons!  </td>
       <td><a href="https://www.gabesstores.com/win"> <Button variant="info">Sweepstakes Rules</Button></a></td>
-      <td>Y8/30/2020</td>
+      <td>8/30/2020</td>
     </tr>
 
 
@@ -297,13 +338,7 @@ Savor summer wherever you are with Maker’s Mark®.
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Contest</td>
-      <td><a href="https://www.instructables.com/contest/frozentreats2020/">Instructables Forzen Treats </a></td>
-      <td>Make those hot summer days more enjoyable with a frozen treat! Share your favorite recipes for frozen treats for a chance to<b> win an Amazon Gift Card!</b> </td>
-      <td><a href="https://www.instructables.com/contest/frozentreats2020/"> <Button variant="warning">Contest Rules</Button></a></td>
-      <td>7/19/2020</td>
-    </tr>
+   
     <tr>
       
 <td>Contest</td>
