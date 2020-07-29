@@ -5,6 +5,7 @@ import './index.css';
 import App from './App';
 import Lucky from './lucky.js';
 import Contest from './Contest';
+import Sweepstakes from './Sweepstakes'
 import NotFound from './notFound.js'
 import * as serviceWorker from './serviceWorker';
 import { faEnvelope} from "@fortawesome/free-solid-svg-icons";
@@ -24,6 +25,9 @@ const routing = (
 			<li>
 			<Link to='/Contest'>Contest</Link>
 			</li>
+			<li>
+			<Link to='/Sweepstakes'>Sweepstakes</Link>
+			</li>
 			<li id="email">
 				<Link  to="/lucky">Sign Up  <FontAwesomeIcon icon={faEnvelope}/>  </Link>
 			</li>
@@ -35,6 +39,7 @@ const routing = (
 		<Route path="/lucky" component={Lucky} />
 
 		<Route path='/Contest' component={Contest} />
+		<Route path='/Sweepstakes' component={Sweepstakes} />
 
 		<Route component={NotFound} />
 		</Switch>
