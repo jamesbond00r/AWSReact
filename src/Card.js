@@ -3,7 +3,7 @@ import Card from 'react-bootstrap/Card';
 import CardDeck from 'react-bootstrap/CardDeck';
 import Button from 'react-bootstrap/Button';
 import './App.css';
-import beach from "./pics/marc-babin-9IzrXQakxk0-unsplash.jpg";
+import beach from "./pics/elizeu-dias-RN6ts8IZ4_0-unsplash.jpg";
 export default function CardBody () {
 
 	return(
