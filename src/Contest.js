@@ -4,6 +4,7 @@ import Button from 'react-bootstrap/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import NavBarLower from './NavBarLower';
 import Table from 'react-bootstrap/Table';
+import Container from 'react-bootstrap/Container'
 
 class Contest extends React.Component {
 	render() {
@@ -17,7 +18,7 @@ class Contest extends React.Component {
 
 {/*<tr><td>Sweepstakes</td><td><a href=""> Copy and paste me </a></td><td> Blank for Now </td><td><a href=""> <Button variant="info">Sweepstakes Rules</Button></a></td><td>Yeah also blank fo now</td></tr> */}
 
-
+<Container fluid="md">
 
 <Table striped bordered hover className="tableSpace">
   <thead>
@@ -60,7 +61,7 @@ All projects that include the use of metal are eligible, and there is a special 
     </tr>
   </tbody>
 </Table>
-
+</Container>
 <div className="space">
 
 </div>

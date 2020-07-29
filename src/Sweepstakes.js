@@ -4,13 +4,13 @@ import Button from 'react-bootstrap/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import NavBarLower from './NavBarLower';
 import Table from 'react-bootstrap/Table';
-
+import Container from 'react-bootstrap/Container'
 class Contest extends React.Component {
 	render() {
 		return (
       <div>
  <h1 className="CoSw">Sweepstakes</h1>
-
+<Container fluid="md">
 
  <Table striped bordered hover >
   <thead>
@@ -326,7 +326,7 @@ Savor summer wherever you are with Maker’s Mark®.
 
 
 </Table>
-
+</Container>
 
 <div className="space">
 
