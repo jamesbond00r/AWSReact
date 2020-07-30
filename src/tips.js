@@ -4,14 +4,20 @@ import Button from 'react-bootstrap/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Bar from './nav.js';
 import NavBarLower from './NavBarLower';
-
+import Container from 'react-bootstrap/Container'
 
 class Lucky extends React.Component {
 	render() {
 		return (
+			<div>
+
+
+      <div>
+<Container fluid="md">
+      <h1>Quick Tips</h1>
+
       
-      <div><h1>Quick Tips</h1>
-      
+
 
  <ol>
   <li>Before you get started entering sweepstakes we suggest getting a dedicated email for your entries. It will be easier to sort out why you are getting certian emails, winning anncouments if you get lucky and unsubscring from mailing list you dont want to be on.  </li>
@@ -22,7 +28,9 @@ class Lucky extends React.Component {
 
 
 </ol> 
+</Container>
 
+</div>
 
         <NavBarLower></NavBarLower>
         </div>

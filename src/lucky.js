@@ -5,23 +5,28 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Bar from './nav.js';
 import NavBarLower from './NavBarLower';
 import Mailchimp from 'react-mailchimp-form';
+import Container from 'react-bootstrap/Container'
 
 
 class Lucky extends React.Component {
 	render() {
 		return (
+      <div>
       
+      <Container fluid="md">
       <div className="lucky"><h1>Sign up for lucky emails</h1
       >
       <div><h4>"The best luck of all is the luck you make for yourself"-Douglas MacArthur</h4></div>
       <div>
 
       <p>Do you like playing games and the chance to win prizes?</p>
-      <p>Looking for something new to add some excitement to your inbox</p>
+      <p>Looking for something new to add some excitement to your inbox?</p>
       <p>Want to add more luck to you day?</p>
 
       <p>Sign up for lucky emails and get new contest and sweepstakes sent to your email! Unsubscribe anytime!</p>
-
+<div> <p> We wont blow up your inbox  with daily emails and drive you nuts and we wont sell your information to anyone. Just a small site making the internet a little more fun.</p>
+      
+       </div>
       </div>
 
  <Mailchimp
@@ -48,8 +53,9 @@ class Lucky extends React.Component {
     }
   }
         />
-       <div> <p> We wont blow up your inbox  with daily emails and drive you nuts and we wont sell your information to anyone. Just a small site making the internet a little more fun.</p>
-        </div>
+       
+
+        </div></Container>
         <NavBarLower></NavBarLower>
         </div>
 
