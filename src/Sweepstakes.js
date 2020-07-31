@@ -4,11 +4,17 @@ import Button from 'react-bootstrap/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import NavBarLower from './NavBarLower';
 import Table from 'react-bootstrap/Table';
-import Container from 'react-bootstrap/Container'
+import Container from 'react-bootstrap/Container';
+import Add from './add.js'
+
+
 class Contest extends React.Component {
 	render() {
 		return (
       <div>
+<Add></Add>
+
+
  <h1 className="CoSw">Sweepstakes</h1>
 <Container fluid="md">
 

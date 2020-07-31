@@ -32,6 +32,20 @@ class Contest extends React.Component {
   </thead>
   <tbody>
    
+
+   
+    <tr>
+      
+<td>Contest</td>
+      <td><a href="https://www.instructables.com/contest/makeitfly/">Make It Fly </a></td>
+      <td>Look, up in the sky: It’s a thing moving through the air according the the laws of physics! For this challenge, make something that flies through the air (either controlled or uncontrolled). Make it Fly! </td>
+      <td><a href="https://www.instructables.com/contest/TinkercadStudents/"> <Button variant="warning">Contest Rules</Button></a></td>
+      <td>8/10/2020</td>
+    </tr>
+
+
+
+
     <tr>
       
 <td>Contest</td>
@@ -40,8 +54,13 @@ class Contest extends React.Component {
  </td>
       <td><a href="https://www.instructables.com/contest/TinkercadStudents/"> <Button variant="warning">Contest Rules</Button></a></td>
       <td>8/10/2020</td>
-
     </tr>
+
+
+
+
+
+
     <tr>
       <td>Contest</td>
       <td><a href="https://www.instructables.com/contest/rainbow2020/">Instructables rainbow2020 </a></td>
