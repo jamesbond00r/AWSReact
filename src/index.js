@@ -14,6 +14,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 
 
+
 const routing = (
 
 	<Router>
@@ -40,7 +41,7 @@ const routing = (
 			<Switch>
 		<Route exact path="/" component={App} />
 		<Route exact path="/index.html" component={App} />
-
+		
 		<Route path="/lucky" component={Lucky} />
 
 		<Route path='/Contest' component={Contest} />
