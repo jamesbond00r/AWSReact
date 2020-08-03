@@ -5,7 +5,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import NavBarLower from './NavBarLower';
 import Table from 'react-bootstrap/Table';
 import Container from 'react-bootstrap/Container';
-import Add from './add.js'
+import Add from './add.js';
+
 
 
 class Contest extends React.Component {
@@ -18,6 +19,8 @@ class Contest extends React.Component {
  <h1 className="CoSw">Sweepstakes</h1>
 <Container fluid="md">
 
+
+
  <Table striped bordered hover >
   <thead>
     <tr>
@@ -28,7 +31,11 @@ class Contest extends React.Component {
       <th>End</th>
     </tr>
   </thead>
+  
   <tbody>
+
+
+
 
   <tr>
 <td>Sweepstakes</td>
@@ -40,13 +47,7 @@ class Contest extends React.Component {
 
 
 
-<tr>
-<td>Sweepstakes</td>
-      <td><a href="https://woobox.com/typ5a4">Woobox</a></td>
-      <td>$2,100 Channellock Tool Chest Giveaway! </td>
-      <td><a href="https://woobox.com/typ5a4/rules"> <Button variant="info">Sweepstakes Rules</Button></a></td>
-      <td> 8/1/2020</td>
-    </tr>
+
 
 
 <tr>
@@ -316,6 +317,10 @@ Savor summer wherever you are with Maker’s Mark®.
 
 
 </Table>
+
+
+
+
 </Container>
 
 <div className="space">
