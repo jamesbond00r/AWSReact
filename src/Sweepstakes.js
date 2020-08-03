@@ -279,13 +279,6 @@ Savor summer wherever you are with Maker’s Mark®.
       <td><a href="https://www.garnierusa.com/offers/its-our-treat-sweepstakes"> <Button variant="info">Sweepstakes Rules</Button></a></td>
       <td>8/31/2020</td>
     </tr>
-<tr>
-<td>Sweepstakes</td>
-      <td><a href="https://www.crashfromhome.com/"> Crash From Home </a></td>
-      <td> Make a video with Doritos®. Any way you want. Dance. Craft. Crunch. Create. Then upload it here for a chance to get your video on TV and a $$$ pay check. </td>
-      <td><a href="https://www.crashfromhome.com/official-rules"> <Button variant="info">Sweepstakes Rules</Button></a></td>
-      <td>7/28/2020</td>
-    </tr>
 
 
     <tr>
@@ -296,16 +289,7 @@ Savor summer wherever you are with Maker’s Mark®.
       <td>8/04/2020</td>
     </tr>
 
-    <tr>
-   
-<td>Sweepstakes</td>
-      <td><a href="https://www.travelchannel.com/sweepstakes/dreaming-of-travel">Travel Channel Dreaming of Travel Sweepstakes </a></td>
-      <td>You could win $10,000 CASH! Enter daily through July 31 at 8:59 am EDT for your chance to win
- </td>
-      <td><a href="https://www.travelchannel.com/sweepstakes/"> <Button variant="info">Sweepstakes Rules</Button></a></td>
-      <td>07/31/2020</td>
-
-    </tr>
+  
     <tr>
       <td>Sweepstakes</td>
       <td><a href="https://www.foodnetwork.com/sponsored/sweepstakes/best-thing-i-ever-ate-sweepstakes">Food Network All Star Best Thing I Ever Ate</a></td>
