@@ -33,6 +33,100 @@ class Contest extends React.Component {
   </thead>
   
   <tbody>
+  
+  
+       <tr>
+<td>Sweepstakes</td>
+      <td><a href="https://mondelez-minions.promo.eprize.com/#/landing">Teddy Grahams</a></td>
+      <td>
+You could win a UNIVERSAL PARKS & RESORTS TRIP to Hollywood or Orlando for a chance to experience all the fun these Minions bring!</td>
+      <td><a href="https://mondelez.promo.eprize.com/minions/public/fulfillment/rules.pdf"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 8/24/2020</td>
+    </tr>
+
+   
+       <tr>
+<td>Sweepstakes</td>
+      <td><a href="https://bringnatureindoor.com/">Bring Nature Indoor</a></td>
+      <td>One Grand Prize: $15,000 for a Home Renovation Project</td>
+      <td><a href="https://bringnatureindoor.com/OfficialRules"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 8/5/2020</td>
+    </tr>
+
+  
+  
+       <tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.tripadvisor.com/InfoCenter-a_ctr.StellaStaycationSwap">tripadvisor</a></td>
+      <td>Lucky entrants who planned a trip to each other’s states will swap itineraries and be gifted a dream staycation in their home city!</td>
+      <td><a href="https://app.wyng.com/5ef1303c939cb800ddc6af4c?page=page_8773725193255"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 8/31/2020</td>
+    </tr>
+
+  
+  
+  
+  
+  
+     <tr>
+<td>Sweepstakes</td>
+      <td><a href="https://kimcrawfordusopentennis.dja.com/registration">Kim Crawford</a></td>
+      <td>Win the ultimate tennis experience at the US open. -- rules located at the bottom of web page.</td>
+      <td><a href="https://kimcrawfordusopentennis.dja.com/registration#"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 8/10/2020</td>
+    </tr>
+
+    
+    
+    
+   <tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.myrtlebeachgolf.com/the-2020-play-with-a-pro-giveaway/">MyrtleBeachGolf</a></td>
+      <td>You Could Be Lauren Stephenson's Next Playing Partner!</td>
+      <td><a href="https://www.myrtlebeachgolf.com/the-2020-play-with-a-pro-giveaway/2020-play-with-a-pro-giveaway-official-rules/"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 8/20/2020</td>
+    </tr>
+
+  
+  
+   <tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.clorox.com/our-purpose/support-our-teachers/	">Clorox</a></td>
+      <td>Enter our sweepstakes before September 20th and you’ll have a chance to win $20,000 for your local school, and $5,000 for your own educational supplies..</td>
+      <td><a href="https://eprize-content.s3.amazonaws.com/250673+Clorox+Clear+the+List+Sweepstakes/rules.htm"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 9/20/2020</td>
+    </tr>
+
+
+  
+   <tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.popsugar.com/beauty/fashion-beauty-essentials-giveaway-47530360	">Popsugar</a></td>
+      <td>Relax and recharge in style with $1,000 in fashion and beauty essentials.</td>
+      <td><a href="https://www.popsugar.com/beauty/fashion-beauty-essentials-giveaway-official-rules-47539005"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 8/10/2020</td>
+    </tr>
+
+
+
+
+ <tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.bonnemaman.us/intense-happy-pantry-sweepstakes/">Bonnemaman</a></td>
+      <td>A custom pantry makeover and a year’s supply of Bonne Maman INTENSE Fruit Spreads, valued at over $1,000</td>
+      <td><a href="https://www.bonnemaman.us/wp-content/uploads/2020/07/Bonne-Maman-INTENSE-Happy-Pantry-Sweepstakes-Rules_07.08.20-1.pdf"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 8/20/2020</td>
+    </tr>
+
+
+
+  <tr>
+<td>Sweepstakes</td>
+      <td><a href="https://www.bassettfurniture.com/sweeps/">BassettFurniture</a></td>
+      <td>$10,000 Bassett giftcard </td>
+      <td><a href="https://www.bassettfurniture.com/sweeps/2020_LYHS_OfficialRules.pdf"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 8/18/2020</td>
+    </tr>
 
 
 
