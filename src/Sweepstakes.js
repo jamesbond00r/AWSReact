@@ -34,6 +34,177 @@ class Contest extends React.Component {
   
   <tbody>
   
+       <tr>
+<td>Sweepstakes</td>
+<td>
+<a href="https://www.newegg.com/promotions/nepro/20-1446/index.html?	">
+Newegg
+</a>
+</td>
+<td>
+Choose our Slogan Contest!
+</td>
+<td><a href="https://promotions.newegg.com/nepro/20-1446/Newegg_Slogan_Contest_-_OFFICIAL_RULES(FINAL).pdf">
+<Button variant="info">Sweepstakes Rules</Button></a></td>
+<td> 8/31/2020</td>
+</tr>
+    
+   
+     <tr>
+<td>Sweepstakes</td>
+<td>
+<a href="https://paddling.com/sweepstakes/aire-sweepstakes/">
+Paddling.com
+</a>
+</td>
+<td>
+Win a TOMCAT solo!
+</td>
+<td><a href="https://paddling.com/sweepstakes/aire-sweepstakes/">
+<Button variant="info">Sweepstakes Rules</Button></a></td>
+<td> 8/18/2020</td>
+</tr>
+    
+  
+  
+     <tr>
+<td>Sweepstakes</td>
+<td>
+<a href="https://barbecuebible.com/2020/07/28/grill-sweepstakes-july-2020/">
+Barbecuebible
+</a>
+</td>
+<td>
+High-Tech Indoor and Outdoor Grilling Sweepstakes
+</td>
+<td><a href="https://barbecuebible.com/high-tech-indoor-and-outdoor-grilling-sweeps-rules/">
+<Button variant="info">Sweepstakes Rules</Button></a></td>
+<td> 8/28/2020</td>
+</tr>
+    
+     <tr>
+<td>Sweepstakes</td>
+<td>
+<a href="https://farberwarecookware.com/pages/dinner-on-us-sweepstakes">
+Farberware </a>
+</td>
+<td>
+Enter for a chance to WIN a limited edition Farberware 120th Anniversary Set and $100 Gift Card in our Dinner, On Us Sweepstakes. 
+
+</td>
+<td><a href="https://farberwarecookware.com/pages/dinner-on-us-sweepstakes">
+<Button variant="info">Sweepstakes Rules</Button></a></td>
+<td> 9/30/2020</td>
+</tr>
+  
+  
+  
+     <tr>
+<td>Sweepstakes</td>
+<td>
+<a href="https://butterupbbq.com/enter">
+Butter Up BBQ </a>
+</td>
+<td>
+Enter for your chance to WIN $4,800 in prizing!
+
+</td>
+<td><a href="https://butterupbbq.com/officialrules">
+<Button variant="info">Sweepstakes Rules</Button></a></td>
+<td> 9/07/2020</td>
+</tr>
+  
+     <tr>
+<td>Sweepstakes</td>
+<td>
+<a href="https://www.laysflavoricons.com/home">
+Lays</a>
+</td>
+<td>
+Lay's has turned iconic dishes from the hottest restaurants into tasty perfection—and every bag is a chance to win $1,000 CASH. Are you feeling lucky?
+ <a href="https://www.laysflavoricons.com/amoe/">No code?</a>
+</td>
+<td><a href="https://www.laysflavoricons.com/rules">
+<Button variant="info">Sweepstakes Rules</Button></a></td>
+<td> 9/10/2020</td>
+</tr>
+  
+  
+  
+   <tr>
+<td>Sweepstakes</td>
+<td>
+<a href="https://game.intel.com/giveaways/mount-and-blade/index-us.html">
+Intel</a>
+</td>
+<td>
+Enter to win the ultimate Mount & Blade II: Bannerlord gaming bundle, featuring an OMEN 15 gaming laptop, built with an Intel® Core™ i7 processor. 
+</td>
+<td><a href="https://game.intel.com/rules/mount-and-blade/terms-and-conditions-us-ca.pdf">
+<Button variant="info">Sweepstakes Rules</Button></a></td>
+<td> 8/31/2020</td>
+</tr>
+  
+  
+  <tr>
+<td>Sweepstakes</td>
+<td>
+<a href="https://www.travelzoo.com/thrillist/">
+Travelzoo</a>
+</td>
+<td>
+Click on one of the images below to select your preferred road trip destination and enter for your chance to win.
+</td>
+<td><a href="https://s3.amazonaws.com/com.offerpop.services.media/images/media/5b632c61ef95a61e270e6008/5f181c76f6e8980822f8fb14.pdf">
+<Button variant="info">Sweepstakes Rules</Button></a></td>
+<td> 9/30/2020</td>
+</tr>
+  
+  
+  
+   <tr>
+<td>Sweepstakes</td>
+<td>
+<a href="https://www.quakerbacktoschool.com/">
+Quaker Back To School</a>
+</td>
+<td>
+Your school^ could WIN $1000 in credit!
+</td>
+<td><a href="https://www.quakerbacktoschool.com/official-rules">
+<Button variant="info">Sweepstakes Rules</Button></a></td>
+<td> 9/30/2020</td>
+</tr>
+  
+   
+        <tr>
+<td>Sweepstakes</td>
+<td>
+<a href="https://harvestright.com/contest/">
+Harvestright</a>
+</td>
+<td>
+3 Winners! Enter for the chance to win one of three prizes!
+</td>
+<td><a href="https://harvestright.com/contest/">
+<Button variant="info">Sweepstakes Rules</Button></a></td>
+<td> 10/20/2020</td>
+</tr>
+  
+        <tr>
+<td>Sweepstakes</td>
+<td>
+<a href="https://www.littlebites.com/chocolate-chip-cookies">
+Little Bites</a>
+</td>
+<td>
+Entenmann's Little Bites® invites you to enter the Chip Chip Hooray Cookies Giveaway!
+</td>
+<td><a href="https://woobox.com/vr7gzn/rules">
+<Button variant="info">Sweepstakes Rules</Button></a></td>
+<td> 8/27/2020</td>
+</tr>
+
   
     
         <tr>
