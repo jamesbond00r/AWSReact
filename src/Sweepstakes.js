@@ -34,10 +34,41 @@ class Contest extends React.Component {
   
   <tbody>
   
+  <tr>
+<td>Sweepstakes</td>
+<td>
+<a href="http://bubbiesicecream.com/sweetescape/">
+Bubbies Icecream
+</a>
+</td>
+<td>
+Enter the Sweet Escape Sweepstakes for a chance to win $5,000.
+</td>
+<td><a href="http://bubbiesicecream.com/sweetescape-rules/">
+<Button variant="info">Sweepstakes Rules</Button></a></td>
+<td> 8/14/2020</td>
+</tr>
+  
+  
+   <tr>
+<td>Sweepstakes</td>
+<td>
+<a href="http://bubbiesicecream.com/sweetescape/">
+Bubbies Icecream
+</a>
+</td>
+<td>
+Enter the Sweet Escape Sweepstakes for a chance to win $5,000.
+</td>
+<td><a href="http://bubbiesicecream.com/sweetescape-rules/">
+<Button variant="info">Sweepstakes Rules</Button></a></td>
+<td> 8/14/2020</td>
+</tr>
+  
        <tr>
 <td>Sweepstakes</td>
 <td>
-<a href="https://www.newegg.com/promotions/nepro/20-1446/index.html?	">
+<a href="https://www.newegg.com/promotions/nepro/20-1446/index.html?">
 Newegg
 </a>
 </td>
