@@ -35,6 +35,70 @@ class Contest extends React.Component {
   <tbody>
   
   
+    
+        <tr>
+<td>Sweepstakes</td>
+<td>
+<a href="https://www.dewoutdoors.com/stimulus">
+Dew outdoors</a>
+</td>
+<td>
+Apply as one of the first 100 people tomorrow to catch your share 
+of $100K and grab $20 toward your hunting or fishing permit. 
+</td>
+<td><a href="https://www.dewoutdoors.com/stimulus">
+<Button variant="info">Sweepstakes Rules</Button></a></td>
+<td> 9/11/2020</td>
+</tr>
+
+  
+    
+        <tr>
+<td>Sweepstakes</td>
+<td>
+<a href="https://cocacola.promo.eprize.com/backyard/	">
+Cocal-Cola Backyard Dreams</a>
+</td>
+<td>
+This summer build the backyard of your dreams. Make the most of the season—enter
+NOW and you could win a complete backyard makeover or free groceries for a week!
+</td>
+<td><a href="https://cocacola.promo.eprize.com/backyard/public/COMPILED/en/fulfillment/rules.f943b49b41bd91a9f7a063c98f8e296d.pdf">
+<Button variant="info">Sweepstakes Rules</Button></a></td>
+<td> 9/5/2020</td>
+</tr>
+
+   
+  
+        <tr>
+<td>Sweepstakes</td>
+<td>
+<a href="https://cocacola.promo.eprize.com/backyard/	">
+Cocal-Cola Backyard Dreams</a>
+</td>
+<td>
+This summer build the backyard of your dreams. Make the most of the season—enter
+NOW and you could win a complete backyard makeover or free groceries for a week!
+</td>
+<td><a href="https://cocacola.promo.eprize.com/backyard/public/COMPILED/en/fulfillment/rules.f943b49b41bd91a9f7a063c98f8e296d.pdf">
+<Button variant="info">Sweepstakes Rules</Button></a></td>
+<td> 9/5/2020</td>
+</tr>
+
+   
+  
+       <tr>
+<td>Sweepstakes</td>
+      <td><a href="https://fordhalloffans.com/football">Ford</a></td>
+      <td>
+You could win a trip to Super Bowl LV, the 2021 Pro Football Hall of Fame enshrinement and a 2021 Ford F-150. </td>
+      <td><a href="https://fordhalloffans.com/football/rules"> <Button variant="info">Sweepstakes Rules</Button></a></td>
+      <td> 1/24/2021</td>
+    </tr>
+
+   
+  
+  
        <tr>
 <td>Sweepstakes</td>
       <td><a href="https://mondelez-minions.promo.eprize.com/#/landing">Teddy Grahams</a></td>
