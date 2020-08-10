@@ -21,7 +21,7 @@ export default function Jumbo () {
 
   </p>
   <p>
-    <a href="./contest"> <Button id='button2' size="lg" variant="primary">Enter Contest and sweepstakes  <FontAwesomeIcon icon={faGem}/></Button></a>
+    <a href="./Sweepstakes"> <Button id='button2' size="lg" variant="primary">Enter Contest and sweepstakes  <FontAwesomeIcon icon={faGem}/></Button></a>
 
      <a href="./lucky"> <Button id='button2' size="lg" variant="warning">Sign up for lucky emails  <FontAwesomeIcon icon={faPaperPlane}/></Button></a>
   </p>
